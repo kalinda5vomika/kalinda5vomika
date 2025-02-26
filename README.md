@@ -52,7 +52,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kalinda-vomika-35b0301bb" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kalindavomika" height="50" width="50" /></a>
-<a href="https://fb.com/kalinda vomika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalinda vomika" height="50" width="50" /></a>
+<a href="https://facebook.com/kalinda%2520vomika?lsrc=lb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalinda vomika" height="50" width="50" /></a>
 
 </p>
 
