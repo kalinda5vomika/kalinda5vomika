@@ -63,5 +63,4 @@
 
 ---
 
-<h3 align="center">Support:</h3>
 
